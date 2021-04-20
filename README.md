@@ -22,7 +22,6 @@ Assuming **XAMPP** is already installed in your local machine
 4. Go to http://localhost if you see a login page, it is working
 
 ## DEMO
-This project is hosted at https://lims.nafisulbari.com for you to play with.
 
 Username: 555 
 
